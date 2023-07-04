@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import myimage from "../Me.jpg";
+import myimage from "../45.png";
 import Lefto from "./Lefto";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBars , faCog} from '@fortawesome/free-solid-svg-icons';

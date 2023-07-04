@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ProtofileRemake/static/css/main.8e53d6e7.css",
-    "main.js": "/ProtofileRemake/static/js/main.3ba158c9.js",
+    "main.css": "/ProtofileRemake/static/css/main.07123751.css",
+    "main.js": "/ProtofileRemake/static/js/main.6823cb5e.js",
+    "static/media/45.png": "/ProtofileRemake/static/media/45.66e807e91d914d88312e.png",
     "static/media/Screenshot_4.png": "/ProtofileRemake/static/media/Screenshot_4.a6ea0150640760258b9b.png",
     "static/media/Screenshot_2.png": "/ProtofileRemake/static/media/Screenshot_2.6560e54d4b53093ca161.png",
     "static/media/Screenshot_3.png": "/ProtofileRemake/static/media/Screenshot_3.677b7941d7d3975790fd.png",
     "static/media/Screenshot_1.png": "/ProtofileRemake/static/media/Screenshot_1.8a430f0d2d5826a088f8.png",
-    "static/media/Me.jpg": "/ProtofileRemake/static/media/Me.29ef35e9c41ea2a31fc1.jpg",
     "static/media/50.docx": "/ProtofileRemake/static/media/50.65c0311edf57259a13fc.docx",
     "index.html": "/ProtofileRemake/index.html",
-    "main.8e53d6e7.css.map": "/ProtofileRemake/static/css/main.8e53d6e7.css.map",
-    "main.3ba158c9.js.map": "/ProtofileRemake/static/js/main.3ba158c9.js.map"
+    "main.07123751.css.map": "/ProtofileRemake/static/css/main.07123751.css.map",
+    "main.6823cb5e.js.map": "/ProtofileRemake/static/js/main.6823cb5e.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e53d6e7.css",
-    "static/js/main.3ba158c9.js"
+    "static/css/main.07123751.css",
+    "static/js/main.6823cb5e.js"
   ]
 }
